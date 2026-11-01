@@ -1,20 +1,25 @@
-# 🔢 Lucky Calculator Pro
+# 🧮 Lucky Calculator Pro
+### FROM UDI TO THE WORLD 🌍
 
-> My first Python app - From CLI to GUI | Built from Udi, Enugu State, Nigeria 🇳🇬
+> My first Python project - Built 100% on Android phone, no laptop!
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Status](https://img.shields.io/badge/Status-Completed-green)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://python.org)
+[![Built On Android](https://img.shields.io/badge/Built%20On-Android-green?style=for-the-badge&logo=android)](https://github.com/luckycodeNG/-lucky-calculator-pro)
+[![From Udi](https://img.shields.io/badge/From-Udi%2C%20Enugu-orange?style=for-the-badge)](https://github.com/luckycodeNG)
 
-### ✨ Features
-- **CLI Version** (`calc.py`) - Command line calculator with history
-- **GUI Version** (`gui_calc.py`) - Tkinter beautiful dark mode calculator
-- **File Handling** - Saves all calculations to `lucky_history.txt`
-- **Error Handling** - No crash on divide by zero
+## ✨ Features
+- ✅ **CLI Mode** - Fast command-line calculator
+- ✅ **GUI Mode** - Modern Dark Mode interface (Tkinter)
+- ✅ **File Handling** - Saves calculation history
+- ✅ **Beginner Friendly** - Clean, commented code
 
-### 🚀 How to Run
+## 🚀 How To Run
 ```bash
-# CLI version
-python calc.py
+# Clone the repo
+git clone https://github.com/luckycodeNG/-lucky-calculator-pro.git
 
-# GUI version
-python gui_calc.py
+# Run CLI version
+python calculator_cli.py
+
+# Run GUI version
+python calculator_gui.py
